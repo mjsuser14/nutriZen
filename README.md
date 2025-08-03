@@ -1,6 +1,11 @@
 🥗 NutriZen – AI-Powered Personalized Nutrition Assistant
 An intelligent AI assistant that provides personalized dietary recommendations using IBM Watsonx.ai, IBM Granite, and IBM Cloud Lite. NutriZen supports user-friendly text, voice, and image input, offering adaptive meal plans, smart food swaps, and contextual nutritional advice for individuals seeking better health.
 
+# 🥗 NutriZen
+
+![NutriZen Preview](nutrizen_preview.jpg)
+
+
 🧩 Problem Statement
 
 In today's health-conscious world, people need personalized nutrition guidance that adapts to their lifestyle, cultural preferences, allergies, and medical needs. Most apps are too generic, don't evolve with user feedback, and lack explainability.
