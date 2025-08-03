@@ -3,7 +3,7 @@ An intelligent AI assistant that provides personalized dietary recommendations u
 
 # 🥗 NutriZen
 
-![NutriZen Preview](nutrizen_preview.jpg)
+![NutriZen Preview](https://github.com/mjsuser14/nutriZen/blob/main/NutriZen.jpg)
 
 
 🧩 Problem Statement
